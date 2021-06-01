@@ -27,5 +27,5 @@ Sometimes programming languages and calculators with high precision like to make
 which is a completely valid answer to this! It's just that most languages round it up because the rest of
 the decimal number is just `9`s.
 
-I am not a mathemetician. I literally came up with this equation by smashing a numpad. There is probably
+I am not a mathematician. I literally came up with this equation by smashing a numpad. There is probably
 an edge case I haven't thought about here.
